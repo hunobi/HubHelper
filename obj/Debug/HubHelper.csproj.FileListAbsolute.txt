@@ -1,0 +1,14 @@
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\bin\Debug\HubHelper.exe.config
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\bin\Debug\HubHelper.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\bin\Debug\HubHelper.pdb
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\MainWindow.g.cs
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\App.g.cs
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper_MarkupCompile.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper_MarkupCompile.lref
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\MainWindow.baml
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper.g.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper.Properties.Resources.resources
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper.csproj.GenerateResource.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper.csproj.CoreCompileInputs.cache
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper.exe
+C:\Users\hubci\Desktop\Programy i Aplikacje\C#\Programy\Program 30 - CapsLock\HubHelper\obj\Debug\HubHelper.pdb
